@@ -5,8 +5,8 @@
         "debug": {
             "publishReport": true
         },
-        "pageTitle": "AdaptHealth POC",
-        "navTitle": "AdaptHealth POC",
+        "pageTitle": "AdaptHealth API Reference",
+        "navTitle": "AdaptHealth API Reference",
         "logoUrl": "static/images/logo.png",
         "logoLink": "https://www.adapthealth.com",
         "languageConfig": {
