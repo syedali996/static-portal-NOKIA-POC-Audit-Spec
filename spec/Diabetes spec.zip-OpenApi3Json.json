@@ -15,6 +15,10 @@
       }
     }
   ],
+ "externalDocs": {
+	"description": "API Reference for APIMatic",
+	"url": "https://www.apimatic.io/"
+	}, 
   "paths": {
     "/healthCheck": {
       "get": {
@@ -954,9 +958,5 @@
       "name": "salesOrders",
       "description": ""
     }
-  ],
-  "externalDocs": {
-	"description": "API Reference",
-	"url": "https://www.apimatic.io/"
-	}  
+  ] 
 }
