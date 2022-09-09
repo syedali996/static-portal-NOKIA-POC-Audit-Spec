@@ -3,14 +3,14 @@
   "info": {
     "title": "Diabetes Mobile App API",
     "contact": {},
-    "version": "v1"
+    "version": "v2"
   },
   "servers": [
     {
       "url": "https://nonprodapi.adapthealth.com/dev/diabetesmobile/{version}/api/",
       "variables": {
         "version": {
-          "default": "v1"
+          "default": "v2"
         }
       }
     }
