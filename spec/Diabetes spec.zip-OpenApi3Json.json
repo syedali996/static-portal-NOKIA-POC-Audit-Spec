@@ -26,7 +26,7 @@
           "healthCheck"
         ],
         "summary": "HealthCheck_GET",
-        "operationId": "HealthCheck_GET",
+        "operationId": "Get Health Check",
         "parameters": [],
         "responses": {
           "200": {
