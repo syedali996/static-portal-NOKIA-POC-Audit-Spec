@@ -23,7 +23,7 @@
     "/healthCheck": {
       "get": {
         "tags": [
-          "healthCheck"
+          "healthCheckBeta"
         ],
         "summary": "HealthCheck_GET",
         "operationId": "Get Health Check",
