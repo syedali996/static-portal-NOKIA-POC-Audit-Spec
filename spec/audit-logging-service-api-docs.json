@@ -1,7 +1,7 @@
 {
     "openapi": "3.0.1",
     "info": {
-        "title": "WaveSuite Common Platform Audit Logging Service API",
+        "title": "Wavesuite Common Platform Audit Logging Service API",
         "description": "API definition for WaveSuite Common Platform Audit Logging Service",
         "version": "22.08.0"
     },
